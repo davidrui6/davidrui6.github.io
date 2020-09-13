@@ -1,0 +1,33 @@
+#profile-picture{
+    width: 20em;
+    margin-top: 2em;
+}
+.no-bottom-margin{
+    margin-bottom: 0;
+}
+.about-me{
+    background-color: aliceblue;
+    background-image: url(../img/joel-filipe-Wc8k-KryEPM-unsplash.jpg);
+    padding-bottom: 2em;
+}
+.grey-font{
+    color: grey;
+}
+.margin-top{
+    margin-top: 2em;
+}
+.white-background{
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 100%;
+    max-width: 20em;
+    margin: auto;
+    border-radius: 0.3em;
+}
+button a{
+    color: white;
+    text-decoration: none;
+}
+button a:hover{
+    color: white;
+    text-decoration: none;
+}
